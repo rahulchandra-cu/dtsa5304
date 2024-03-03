@@ -8,7 +8,7 @@ This is for final assignment of DTSA 5304 Fundamentals of Data Visualization.
 ## Running Notebook
 
 ### Option 1 : Using Binder
-Run Notebook "DTSA5304_FinalAssignment_Exploratory_Visualization_Olympic_Data.ipynb" By Clicking below Binder Link
+#### Run Notebook "DTSA5304_FinalAssignment_Exploratory_Visualization_Olympic_Data.ipynb" By Clicking below Binder Link :- 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rahulchandra-cu/dtsa5304/HEAD)
 
